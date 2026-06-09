@@ -16,16 +16,16 @@ import React from 'react';
 
 // List of pending tasks shown to students on the home page
 const pendingTasks = [
-  { id: 1, student: 'Student 1', task: 'Implement Navbar navigation with React Router links' },
-  { id: 2, student: 'Student 2', task: 'Design and style the Footer component' },
-  { id: 3, student: 'Student 3', task: 'Build the Login page with a form and validation' },
-  { id: 4, student: 'Student 4', task: 'Build the Registration page with a form and validation' },
-  { id: 5, student: 'Student 5', task: 'Create the Dashboard UI with student stats' },
-  { id: 6, student: 'Student 6', task: 'Build the Profile page with editable fields' },
-  { id: 7, student: 'Student 7', task: 'Implement a Dark Mode toggle across the app' },
-  { id: 8, student: 'Student 8', task: 'Complete the StudentCard component with full props' },
-  { id: 9, student: 'Student 9', task: 'Make the entire app mobile-responsive' },
-  { id: 10, student: 'Student 10', task: 'Write professional README documentation' },
+  { id: 1, student: 'Nnadozie Chibuikem Thaddeus (@teddyfx33)', task: 'Implement Navbar navigation with React Router links' },
+  { id: 2, student: 'Osuji McDonald Chiemela (@donalddev1)', task: 'Design and style the Footer component' },
+  { id: 3, student: 'Achilonu Great Antonio (@h3isgreat)', task: 'Build the Login page with a form and validation' },
+  { id: 4, student: 'Nwauwa Divine-Promises (@Divinepromises)', task: 'Build the Registration page with a form and validation' },
+  { id: 5, student: 'Chukwuebuka Chibundu Chidiebere (@ebukachidiebere050-bit)', task: 'Create the Dashboard UI with student stats' },
+  { id: 6, student: 'Oparaeke George Chinomso (@George-70)', task: 'Build the Profile page with editable fields' },
+  { id: 7, student: 'Nwachukwu Izuchukwu (@izuchukwun22-byte)', task: 'Implement a Dark Mode toggle across the app' },
+  { id: 8, student: 'Orji Chiagozielam Anthony (@anthony7789)', task: 'Complete the StudentCard component with full props' },
+  { id: 9, student: 'Amuzie Petra (@Petracutte)', task: 'Make the entire app mobile-responsive' },
+  { id: 10, student: 'Ahaneku Alexander Ugochukwu (@Melloyung)', task: 'Write professional README documentation' },
 ];
 
 function Home() {

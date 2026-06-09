@@ -1,6 +1,6 @@
 // ============================================================
 // Profile.jsx
-// ASSIGNED TO: Student 6 – Profile Page
+// ASSIGNED TO: Oparaeke George Chinomso (@George-70) – Profile Page
 // ------------------------------------------------------------
 // Your tasks:
 //   TODO 1: Display a profile avatar / photo placeholder

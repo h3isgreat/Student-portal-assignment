@@ -82,41 +82,41 @@ student-portal/
 ├── public/                  # Static assets
 ├── src/
 │   ├── components/
-│   │   ├── Navbar.jsx       # Student 1
-│   │   ├── Footer.jsx       # Student 2
-│   │   └── StudentCard.jsx  # Student 8
+│   │   ├── Navbar.jsx       # Nnadozie Chibuikem Thaddeus (@teddyfx33)
+│   │   ├── Footer.jsx       # Osuji McDonald Chiemela (@donalddev1)
+│   │   └── StudentCard.jsx  # Orji Chiagozielam Anthony (@anthony7789)
 │   ├── pages/
 │   │   ├── Home.jsx         # Shared / landing page
-│   │   ├── Login.jsx        # Student 3
-│   │   ├── Register.jsx     # Student 4
-│   │   ├── Dashboard.jsx    # Student 5
-│   │   └── Profile.jsx      # Student 6
+│   │   ├── Login.jsx        # Achilonu Great Antonio (@h3isgreat)
+│   │   ├── Register.jsx     # Nwauwa Divine-Promises (@Divinepromises)
+│   │   ├── Dashboard.jsx    # Chukwuebuka Chibundu Chidiebere (@ebukachidiebere050-bit)
+│   │   └── Profile.jsx      # Oparaeke George Chinomso (@George-70)
 │   ├── App.jsx              # Root component & routing
 │   ├── main.jsx             # Entry point
-│   └── index.css            # Global styles (Student 9 adds responsiveness)
+│   └── index.css            # Global styles (Amuzie Petra adds responsiveness)
 ├── index.html
 ├── vite.config.js
 ├── eslint.config.js
 ├── package.json
-└── README.md                # Student 10
+└── README.md                # Ahaneku Alexander Ugochukwu (@Melloyung)
 ```
 
 ---
 
 ## Student Task Assignments
 
-| # | Student | File(s) | Description |
-|---|---------|---------|-------------|
-| 1 | Student 1 | `src/components/Navbar.jsx` | Replace placeholder `<a>` tags with proper React Router `<NavLink>` components. Highlight the active route. |
-| 2 | Student 2 | `src/components/Footer.jsx` | Design a styled footer with copyright, social links, and a "back to top" button. |
-| 3 | Student 3 | `src/pages/Login.jsx` | Build a controlled login form with client-side validation and error messages. |
-| 4 | Student 4 | `src/pages/Register.jsx` | Build a controlled registration form with field validation and a success state. |
-| 5 | Student 5 | `src/pages/Dashboard.jsx` | Implement the dashboard UI: stats cards, recent activity list, and quick links. |
-| 6 | Student 6 | `src/pages/Profile.jsx` | Build the profile page with view/edit toggle and save functionality. |
-| 7 | Student 7 | `src/App.jsx`, `src/index.css` | Add a dark mode toggle using CSS variables and React state/context. |
-| 8 | Student 8 | `src/components/StudentCard.jsx` | Complete the StudentCard component and render it on the Home page. |
-| 9 | Student 9 | `src/index.css` | Add `@media` queries for mobile responsiveness across all pages. |
-| 10 | Student 10 | `README.md` | Improve this README with screenshots, a demo GIF, and detailed documentation. |
+| # | Name | GitHub | File(s) | Task |
+|---|------|--------|---------|------|
+| 1 | Nnadozie Chibuikem Thaddeus | [@teddyfx33](https://github.com/teddyfx33) | `src/components/Navbar.jsx` | Replace placeholder `<a>` tags with proper React Router `<NavLink>` components. Highlight the active route. |
+| 2 | Osuji McDonald Chiemela | [@donalddev1](https://github.com/donalddev1) | `src/components/Footer.jsx` | Design a styled footer with copyright, social links, and a "back to top" button. |
+| 3 | Achilonu Great Antonio | [@h3isgreat](https://github.com/h3isgreat) | `src/pages/Login.jsx` | Build a controlled login form with client-side validation and error messages. |
+| 4 | Nwauwa Divine-Promises | [@Divinepromises](https://github.com/Divinepromises) | `src/pages/Register.jsx` | Build a controlled registration form with field validation and a success state. |
+| 5 | Chukwuebuka Chibundu Chidiebere | [@ebukachidiebere050-bit](https://github.com/ebukachidiebere050-bit) | `src/pages/Dashboard.jsx` | Implement the dashboard UI: stats cards, recent activity list, and quick links. |
+| 6 | Oparaeke George Chinomso | [@George-70](https://github.com/George-70) | `src/pages/Profile.jsx` | Build the profile page with view/edit toggle and save functionality. |
+| 7 | Nwachukwu Izuchukwu | [@izuchukwun22-byte](https://github.com/izuchukwun22-byte) | `src/App.jsx`, `src/index.css` | Add a dark mode toggle using CSS variables and React state/context. |
+| 8 | Orji Chiagozielam Anthony | [@anthony7789](https://github.com/anthony7789) | `src/components/StudentCard.jsx` | Complete the StudentCard component and render it on the Home page. |
+| 9 | Amuzie Petra | [@Petracutte](https://github.com/Petracutte) | `src/index.css` | Add `@media` queries for mobile responsiveness across all pages. |
+| 10 | Ahaneku Alexander Ugochukwu | [@Melloyung](https://github.com/Melloyung) | `README.md` | Improve this README with screenshots, a demo GIF, and detailed documentation. |
 
 Look for **`TODO`** comments in the relevant file(s) — they tell you exactly what to implement.
 
@@ -142,8 +142,8 @@ main  ←── pull requests ←── feature branches
 git checkout main
 git pull origin main
 
-# 2. Create your feature branch
-git checkout -b feature/student-1-navbar
+# 2. Create your feature branch (use your GitHub username)
+git checkout -b feature/teddyfx33-navbar
 
 # 3. Make your changes, then stage them
 git add .
@@ -152,7 +152,7 @@ git add .
 git commit -m "feat: implement Navbar navigation with NavLink"
 
 # 5. Push your branch to GitHub
-git push origin feature/student-1-navbar
+git push origin feature/teddyfx33-navbar
 
 # 6. Open a Pull Request on GitHub
 ```
@@ -180,11 +180,11 @@ Use lowercase letters, numbers, and hyphens. Follow this pattern:
 ### Examples
 
 ```
-feature/student-1-navbar
-feature/student-3-login-form
-fix/student-4-register-validation
-style/student-9-mobile-responsive
-docs/student-10-readme
+feature/teddyfx33-navbar
+feature/h3isgreat-login-form
+fix/Divinepromises-register-validation
+style/Petracutte-mobile-responsive
+docs/Melloyung-readme
 ```
 
 ---
@@ -228,7 +228,7 @@ docs/student-10-readme
 - **Do not delete TODO comments** that belong to other students.
 - **Write readable code.** Use meaningful variable names and add comments for beginners.
 - **No backend or authentication.** Keep everything frontend-only for this project.
-- **No dark mode CSS yet** — wait for Student 7's implementation before using `data-theme` attributes.
+- **No dark mode CSS yet** — wait for Nwachukwu Izuchukwu's (@izuchukwun22-byte) implementation before using `data-theme` attributes.
 - **Test your changes** by running `npm run dev` and checking the browser before submitting a PR.
 - **Resolve your own merge conflicts.** Pull the latest `main` into your branch and fix any conflicts before requesting a review.
 

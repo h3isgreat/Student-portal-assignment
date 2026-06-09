@@ -1,6 +1,6 @@
 // ============================================================
 // Footer.jsx
-// ASSIGNED TO: Student 2 – Footer Design
+// ASSIGNED TO: Osuji McDonald Chiemela (@donalddev1) – Footer Design
 // ------------------------------------------------------------
 // Your tasks:
 //   TODO 1: Add copyright text with the current year

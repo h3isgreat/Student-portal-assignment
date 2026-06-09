@@ -1,6 +1,6 @@
 // ============================================================
 // Register.jsx
-// ASSIGNED TO: Student 4 – Registration Page
+// ASSIGNED TO: Nwauwa Divine-Promises (@Divinepromises) – Registration Page
 // ------------------------------------------------------------
 // Your tasks:
 //   TODO 1: Create a controlled form with the following fields:

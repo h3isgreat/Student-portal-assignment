@@ -2,17 +2,17 @@
    index.css
    Global stylesheet for the Student Portal
    ------------------------------------------------------------
-   ASSIGNED TO: Student 9 – Mobile Responsiveness
-   Also referenced by: Student 1 (Navbar), Student 2 (Footer),
-                        Student 3 (Login), Student 4 (Register),
-                        Student 5 (Dashboard), Student 6 (Profile),
-                        Student 7 (Dark Mode), Student 8 (StudentCard)
+   ASSIGNED TO: Amuzie Petra (@Petracutte) – Mobile Responsiveness
+   Also referenced by: Nnadozie Chibuikem Thaddeus (Navbar), Osuji McDonald Chiemela (Footer),
+                        Achilonu Great Antonio (Login), Nwauwa Divine-Promises (Register),
+                        Chukwuebuka Chibundu Chidiebere (Dashboard), Oparaeke George Chinomso (Profile),
+                        Nwachukwu Izuchukwu (Dark Mode), Orji Chiagozielam Anthony (StudentCard)
 
-   TODO (Student 7):  Add CSS custom properties (variables) for
+   TODO (Nwachukwu Izuchukwu @izuchukwun22-byte): Add CSS custom properties (variables) for
                       dark mode colours, e.g.
                         :root[data-theme="dark"] { --bg: #1a1a2e; }
 
-   TODO (Student 9):  Add @media queries at the bottom of this file
+   TODO (Amuzie Petra @Petracutte): Add @media queries at the bottom of this file
                       to make every section responsive on small screens
    ============================================================ */
 
@@ -158,9 +158,9 @@ body {
 }
 
 /* ── Navbar ─────────────────────────────────────────────────
-   ASSIGNED TO: Student 1 – extend these styles
-   TODO (Student 1): Style the active link with a different colour
-   TODO (Student 9): Add responsive hamburger menu styles
+   ASSIGNED TO: Nnadozie Chibuikem Thaddeus (@teddyfx33) – extend these styles
+   TODO (@teddyfx33): Style the active link with a different colour
+   TODO (@Petracutte): Add responsive hamburger menu styles
    ─────────────────────────────────────────────────────────── */
 .navbar {
   background-color: var(--color-primary);
@@ -200,8 +200,8 @@ body {
 }
 
 /* ── Footer ─────────────────────────────────────────────────
-   ASSIGNED TO: Student 2 – extend these styles
-   TODO (Student 2): Add multi-column layout for links
+   ASSIGNED TO: Osuji McDonald Chiemela (@donalddev1) – extend these styles
+   TODO (@donalddev1): Add multi-column layout for links
    ─────────────────────────────────────────────────────────── */
 .footer {
   background-color: var(--color-text);
@@ -482,7 +482,7 @@ body {
   gap: var(--spacing-md);
   box-shadow: var(--shadow-sm);
   transition: box-shadow 0.2s ease, transform 0.2s ease;
-  /* TODO (Student 8): Enhance this hover effect */
+  /* TODO (Orji Chiagozielam Anthony @anthony7789): Enhance this hover effect */
 }
 
 .student-card:hover {
@@ -534,7 +534,7 @@ a:hover {
 }
 
 /* ── Responsive ─────────────────────────────────────────────
-   TODO (Student 9): Expand these media queries to cover:
+   TODO (Amuzie Petra @Petracutte): Expand these media queries to cover:
    – Navbar hamburger menu on mobile
    – Stacked form layout on small screens
    – Single-column stats grid on mobile
@@ -569,7 +569,7 @@ a:hover {
 
 @media (max-width: 480px) {
   .navbar-links {
-    /* TODO (Student 9): Hide links and show a hamburger button instead */
+    /* TODO (@Petracutte): Hide links and show a hamburger button instead */
     display: none;
   }
 

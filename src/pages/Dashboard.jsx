@@ -1,6 +1,6 @@
 // ============================================================
 // Dashboard.jsx
-// ASSIGNED TO: Student 5 – Dashboard UI
+// ASSIGNED TO: Chukwuebuka Chibundu Chidiebere (@ebukachidiebere050-bit) – Dashboard UI
 // ------------------------------------------------------------
 // Your tasks:
 //   TODO 1: Display a welcome greeting using the student's name

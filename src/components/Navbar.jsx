@@ -1,6 +1,6 @@
 // ============================================================
 // Navbar.jsx
-// ASSIGNED TO: Student 1 – Navbar Navigation
+// ASSIGNED TO: Nnadozie Chibuikem Thaddeus (@teddyfx33) – Navbar Navigation
 // ------------------------------------------------------------
 // Your tasks:
 //   TODO 1: Add navigation links using <Link> from react-router-dom

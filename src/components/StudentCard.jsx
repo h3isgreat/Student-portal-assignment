@@ -1,6 +1,6 @@
 // ============================================================
 // StudentCard.jsx
-// ASSIGNED TO: Student 8 – Student Card Component
+// ASSIGNED TO: Orji Chiagozielam Anthony (@anthony7789) – Student Card Component
 // ------------------------------------------------------------
 // Your tasks:
 //   TODO 1: Display the student's avatar/profile picture

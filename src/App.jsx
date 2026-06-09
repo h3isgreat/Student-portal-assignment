@@ -4,9 +4,9 @@
 // ------------------------------------------------------------
 // This file wires together all pages and components.
 //
-//   TODO (Student 1):  Update the <Navbar /> to use proper
+//   TODO (Nnadozie @teddyfx33): Update the <Navbar /> to use proper
 //                      <NavLink> components after you implement them
-//   TODO (Student 7):  Add a dark mode context/provider here
+//   TODO (Nwachukwu @izuchukwun22-byte): Add a dark mode context/provider here
 //                      and wrap the app with it
 //   TODO (General):    Add a 404 / Not Found route at the bottom
 // ============================================================
